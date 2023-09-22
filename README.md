@@ -38,13 +38,15 @@ First is integer and another one is String.
 <br>
 -To define an array
 
-```<?php
+```
+<?php
 define("cars", [
   "Alfa Romeo",
   "BMW",
   "Toyota"
 ]);
 echo cars[0];
+?>
 ```
 
 </details>
