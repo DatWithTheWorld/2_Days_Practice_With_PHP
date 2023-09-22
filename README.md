@@ -19,11 +19,11 @@
 
 <details>
 <summary> <h2>PHP String ?</h2> </summary>
- --Include somes function to work with string such as:
-    - strlen("String") : Return the length of this String
-    - str_word_count : To caculate the number of the word in the String
-    - strrev() : To reverse the String
-    - strpos("String","Character in this String"): return index of character where it start in the String
+ --Include somes function to work with string such as: <br>
+    - strlen("String") : Return the length of this String <br>
+    - str_word_count : To caculate the number of the word in the String <br>
+    - strrev() : To reverse the String <br>
+    - strpos("String","Character in this String"): return index of character where it start in the String <br>
     - str_replace("The word wanna to replace","New String","The first String") : To replace some word in a String;
 </details>
 <details>
