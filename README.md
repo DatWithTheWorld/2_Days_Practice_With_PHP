@@ -24,10 +24,39 @@
     - str_word_count : To caculate the number of the word in the String <br>
     - strrev() : To reverse the String <br>
     - strpos("String","Character in this String"): return index of character where it start in the String <br>
-    - str_replace("The word wanna to replace","New String","The first String") : To replace some word in a String;
+    - str_replace("The word wanna to replace","New String","The first String") : To replace some word in a String;<br>
+    - can concatenation two string by using dot (.) For example $txt1.$txt2
 </details>
 <details>
 <summary> <h2>About PHP number </h2> </summary>
 --When you define the number such as a number 80 and another one iss "80". It mean that you define the number with two type . 
 First is integer and another one is String.
 </details>
+<details>
+<summary> <h2>PHP Constant</h2> </summary>
+-define(name, value, case-insensitive)
+<br>
+-To define an array
+```<?php
+define("cars", [
+  "Alfa Romeo",
+  "BMW",
+  "Toyota"
+]);
+echo cars[0];
+?>```
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
