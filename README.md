@@ -37,6 +37,7 @@ First is integer and another one is String.
 -define(name, value, case-insensitive)
 <br>
 -To define an array
+
 ```<?php
 define("cars", [
   "Alfa Romeo",
@@ -44,7 +45,8 @@ define("cars", [
   "Toyota"
 ]);
 echo cars[0];
-?>```
+```
+
 </details>
 
 
