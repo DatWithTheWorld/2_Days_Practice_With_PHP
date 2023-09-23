@@ -1,4 +1,4 @@
-# 2_Days_Practice_With_PHP
+# 7_Days_Practice_With_PHP
 
 <details>
 <summary> <h1>PHP Syntax</h1> </summary>
